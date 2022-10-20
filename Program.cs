@@ -93,11 +93,11 @@ do
 
   Console.WriteLine("\nDo you want to play again?");
   playAgainResponse = Console.ReadLine().ToLower();
-  while (playAgainResponse != "yes" && playAgainResponse != "no") {
-    Console.WriteLine("Please enter either \"yes\" or \"no\"");
+  while (playAgainResponse != "yes" && playAgainResponse != "no" && playAgainResponse != "y" && playAgainResponse != "n") {
+    Console.WriteLine("Please enter \"y\" or \"n\"");
     playAgainResponse = Console.ReadLine().ToLower();
   }
-  if (playAgainResponse == "no") {
+  if (playAgainResponse == "no" || playAgainResponse == "n") {
     playAgain = false;
     Console.WriteLine("\nWe had a good run. Til next time!");
   }

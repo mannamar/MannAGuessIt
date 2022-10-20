@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/amannMiniCh#8.csproj",
+      "projectUniqueName": "/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannAGuessIt/amannMiniCh#8.csproj",
       "projectName": "amannMiniCh#8",
-      "projectPath": "/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/amannMiniCh#8.csproj",
+      "projectPath": "/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannAGuessIt/amannMiniCh#8.csproj",
       "packagesPath": "/Users/amardeepmann/.nuget/packages/",
-      "outputPath": "/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/",
+      "outputPath": "/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannAGuessIt/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amardeepmann/.nuget/NuGet/NuGet.Config"
