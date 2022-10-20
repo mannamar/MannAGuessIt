@@ -1,0 +1,15 @@
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/bin/Debug/net6.0/amannMiniCh#8
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/bin/Debug/net6.0/amannMiniCh#8.deps.json
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/bin/Debug/net6.0/amannMiniCh#8.runtimeconfig.json
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/bin/Debug/net6.0/amannMiniCh#8.dll
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/bin/Debug/net6.0/amannMiniCh#8.pdb
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.csproj.AssemblyReference.cache
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.AssemblyInfoInputs.cache
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.AssemblyInfo.cs
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.csproj.CoreCompileInputs.cache
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.dll
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/refint/amannMiniCh#8.dll
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.pdb
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/amannMiniCh#8.genruntimeconfig.cache
+/Users/amardeepmann/Desktop/Codestack/assignments/amannMiniCh#8/obj/Debug/net6.0/ref/amannMiniCh#8.dll

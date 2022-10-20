@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "amannMiniCh#8/1.0.0": {
+        "runtime": {
+          "amannMiniCh#8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "amannMiniCh#8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
