@@ -1,7 +1,9 @@
 ﻿// Amardeep Mann
 // 10-20-22
-// Mini CHallenge #8 - Guess it
+// Mini Challenge #8 - Guess it
 // Randomly generate a number and have the user try to guess it
+// Peer reviewed by Jessie Lamzon: Code allows me to choose setting and runs through each option.  I like the organization of the code and spacing in the terminal too.  Only thing I found was when entering random characters in preset mode, it would freeze.
+// Github link: https://github.com/peedrama/MannAGuessIt
 
 bool playAgain = true;
 string playAgainResponse = "";
